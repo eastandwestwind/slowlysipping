@@ -68,8 +68,6 @@
     color: $color-white;
 
     span {
-      @extend %letter-spacing;
-
       font-family: $font-body;
     }
   }

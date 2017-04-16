@@ -1,23 +1,22 @@
 # Site settings
-email: 
+email: hello@slowlysipping.com
 baseurl: ""
 paginate: 5
 paginate_path: "/blog/page-:num"
-google_analytics: 
+google_analytics: UA-97406907-1
 
 # SEO settings
-title: Trophy
-description: 
+title: Slowly Sipping
+description: A lifestyle and travel blog
 url: ""
 twitter_username: 
-default_img: 
+default_img: '/sipping.jpg'
 
 # Profile settings
-name: 
-profile_img: 
-profile: 
+name: meow
+profile_img: /banner.jpg
+profile: Slowly Sipping is a blog and travelogue, envisioned as a medium through which I share throughts - any thoughts - while traveling, working, loving, and adventuring.
 social:
-  github: 
 
 # Build settings
 exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
