@@ -34,6 +34,11 @@
 
     &.active {
       border-bottom: 3px solid $color-alpha;
+      &:hover,
+      &:active,
+      &:focus {
+        border-bottom: 3px solid $color-yellow;
+      }
     }
   }
 }
@@ -75,6 +80,7 @@
 
 .preview {
   transition: background-color 0.2s ease-in-out;
+  padding: 0 4em;
   
   &:nth-child(even) {
     background-color: $color-white;
@@ -96,10 +102,10 @@
 
   &__link {
     display: block;
-    padding: 2em 1em;
+    padding: 4em 2em 0 0;
 
     @media (min-width: $mq-md) {
-      padding: 4em 8em;
+      padding: 4em 2em 0 0;
     }
 
     @media (min-width: $mq-xxl) {
@@ -380,7 +386,7 @@
 /**
  * Post
  */
-.post {
+.post,.front-post {
   width: 90%;
   max-width: $mq-md;
   margin: 0 auto;
@@ -429,12 +435,13 @@
     }
   }
 
-  p:first-child {
-    font-size: 1.25em;
-  }
-
   a {
     border-bottom: 1px solid $color-alpha;
+    &:hover,
+    &:active,
+    &:focus {
+      border-bottom: $color-yellow;
+    }
   }
 
   img {
@@ -454,6 +461,16 @@
 
     font-size: 0.75em;
     text-align: center;
+  }
+}
+
+.front-post {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  padding-bottom: 50px;
+  @media (min-width: $mq-md) {
+    width: 100%;
   }
 }
 
@@ -586,6 +603,11 @@
 
     span {
       border-bottom: 3px solid $color-alpha;
+      &:hover,
+      &:active,
+      &:focus {
+        border-bottom: 3px solid $color-yellow;
+      }
     }
   }
 

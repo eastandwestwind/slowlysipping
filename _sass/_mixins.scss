@@ -1,7 +1,7 @@
 /**
  * Underline Slide from left and back
  */
-@mixin border-slide($mainColor: $color-black, $borderColor: $color-alpha, $height: 3px) {
+@mixin border-slide($mainColor: $color-black, $borderColor: $color-yellow, $height: 3px) {
   position: relative;
 
   color: $mainColor;

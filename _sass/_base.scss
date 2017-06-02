@@ -1,16 +1,18 @@
 /**
  * Base Variables
  */
-$font-header: 'Space Mono', monospace;
-$font-body: 'Inconsolata', monospace;
-$font-post: 'Lora', serif;
+$font-header: 'Lato', sans-serif;
+$font-body: 'Open Sans', sans-serif;
+$font-post: 'Open Sans', sans-serif;
 
-$color-alpha: #9f8f68;
+$color-alpha: grey;
 $color-alpha--light: #f5f3ef;
 
 $color-black: #0a0a0a;
 $color-grey: #f8f9f9;
 $color-white: #fff;
+$color-green: #4caf50;
+$color-yellow: #ffcc2d;
 
 $mq-xs: 20em;
 $mq-sm: 30em;
@@ -41,19 +43,19 @@ body {
   }
 
   @media (min-width: $mq-md) {
-    font-size: 107.5%;
+    font-size: 100%;
   }
 
   @media (min-width: $mq-lg) {
-    font-size: 110%;
+    font-size: 100%;
   }
 
   @media (min-width: $mq-xl) {
-    font-size: 115%;
+    font-size: 100%;
   }
 
   @media (min-width: $mq-xxl) {
-    font-size: 125%;
+    font-size: 115%;
   }
 }
 
@@ -103,14 +105,14 @@ p {
 }
 
 a {
-  color: $color-black;
+  color: $color-alpha;
   text-decoration: none;
   transition: color 0.4s ease-in-out;
 
   &:hover,
   &:active,
   &:focus {
-    color: $color-alpha;
+    color: $color-yellow;
   }
 }
 

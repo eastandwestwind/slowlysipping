@@ -15,7 +15,7 @@ default_img: '/sipping.jpg'
 # Profile settings
 name: meow
 profile_img: /banner.jpg
-profile: Slowly Sipping is a blog and travelogue, envisioned as a medium through which I share throughts - any thoughts - while traveling, working, loving, and adventuring.
+profile: Slowly Sipping is a blog, travelogue, notebook, et cetera.
 social:
 
 # Build settings
