@@ -17,7 +17,7 @@ Getting rid of clothing is not an easy process, and not one that should be done 
 
 It is an iterative process that may take a week or a month.
 
-1. Dig everything out. Go ahead and set aside certain items for donation.
+1. Dig everything out. Go ahead and set aside the obvious items for donation.
 2. Put everything that's left in a place that is visible when you go about your usual dressing routine.
 3. After wearing an item of clothing or washing it, place it in a special location, or flip the hanger around to indicate use.
 4. After a week or two - depending on how thorough you wish to be - take a look at what you have and haven't worn.
