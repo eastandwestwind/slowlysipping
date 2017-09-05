@@ -3,14 +3,14 @@ layout: post
 title: "Favorite Clothing Brands"
 categories:
   - Clothing
-description:
+image: '/images/posts/clothing-brands.jpg'
 ---
 
 
 
 Here are a couple clothing companies that embody some if not all of my requirements - durability, comfort, style, practicality.
 
-[Cuyana](https://www.cuyana.com/) - Their motto is "fewer, better" - I can get down with that. Much of their style isn't aligned with mine (think purses, jewelry), but there are certainly some gems: [this](https://www.cuyana.com/open-cashmere-cardigan.html#oatmeal) cardigan, [this](https://www.cuyana.com/lightweight-cashmere-scarf.html#grey) scarf.
+[Cuyana](https://www.cuyana.com/) - Their motto is "fewer, better" - I can get down with that. Much of their style isn't aligned with mine, but there are certainly some gems: [this](https://www.cuyana.com/open-cashmere-cardigan.html#oatmeal) cardigan, [this](https://www.cuyana.com/lightweight-cashmere-scarf.html#grey) scarf.
 
 [Everlane](https://www.everlane.com/) - Affordable basics with classic style. On the site, you also get full transparency into the factories where the clothing is produced, as well as the true costs of making the product. You'll find in my closet: [this](https://www.everlane.com/products/womens-cotton-heather-v-neck-charcoal?collection=womens-tees) versatile v-neck, [this](https://www.everlane.com/products/womens-box-cut-tee-palebrown?collection=womens-tees) cropped boxy t. Since I'm a bit shorter than average (5'4"), I find most t-shirts to be way too long. The cropped t hits right at the top of my hip, which is perfect.
 

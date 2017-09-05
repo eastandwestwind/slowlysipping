@@ -3,7 +3,7 @@ layout: post
 title: "Names"
 categories:
   - Ideas
-description:
+image: '/images/posts/baby-kittens.jpg'
 ---
 
 Names should be timeless and, of course, be relatively easy to spell and pronounce.

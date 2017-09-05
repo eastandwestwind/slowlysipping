@@ -3,7 +3,7 @@ layout: post
 title: "The Essential Closet"
 categories:
   - Clothing
-description:
+image: '/images/posts/clothing-rack.jpg'
 ---
 
 ### Tops

@@ -1,31 +1,56 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-email: hello@slowlysipping.com
-baseurl: ""
-paginate: 5
-paginate_path: "/blog/page-:num"
-google_analytics: UA-97406907-1
+title:            Slowly Sipping
+email:
+description:      recipes, thoughts, code
+baseurl:          '' # The subpath of your site, e.g. /blog
+url:              'https://slowlysipping.com' # The base hostname & protocol for your site
+github_username:
+twitter_username:
 
-# SEO settings
-title: Slowly Sipping
-description: A lifestyle and travel blog
-url: ""
-twitter_username: 
-default_img: '/sipping.jpg'
-
-# Profile settings
-name: meow
-profile_img: /banner.jpg
-profile: Slowly Sipping is a blog, travelogue, notebook, et cetera.
-social:
-
-# Build settings
-exclude: ["_screenshots", "Gemfile", "Gemfile.lock", "LICENSE.txt", "README.md"]
-markdown: kramdown
-permalink: /:year/:month/:day/:title/
-
-# Sass
+markdown:  kramdown
+permalink: pretty
+paginate:  12
 sass:
   style: compressed
 
-# Gems
-gems: [jekyll-paginate, jekyll-sitemap, octopress-autoprefixer]
+gems:
+  - jekyll-paginate
+  - jekyll/tagging
+
+include:
+  - _pages
+
+exclude:
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+# Pages path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+# Authors
+authors:
+  ahmad:
+    name:             a person
+    bio:              doing things people do
+    gravatar:         https://s.gravatar.com/avatar/f83141edd9e6339e678648596a403fd5?s=150
+    email:
+    website:
+    github_username:
+    twitter_username:

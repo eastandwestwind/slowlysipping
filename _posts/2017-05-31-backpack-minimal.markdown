@@ -3,7 +3,7 @@ layout: post
 title: "Backpack Minimal"
 categories:
   - Clothing
-description:
+image: '/images/posts/jeans.jpg'
 ---
 
 If I were to live out of a backpack, here are the items I would pack:

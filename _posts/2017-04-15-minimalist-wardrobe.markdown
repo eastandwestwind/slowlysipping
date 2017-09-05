@@ -3,7 +3,8 @@ layout: post
 title: "Thoughts on a minimalist wardrobe"
 categories:
   - Clothing
-description:
+featured: true
+image: '/images/posts/wardrobe.jpg'
 ---
 
 Clearing out excess clothes is the first step to a better and more curated wardrobe. Like an artist with a blank canvas, you'll also need space to think clearly and rationally about future clothing purchases.
