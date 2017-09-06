@@ -3,7 +3,7 @@ layout: post
 title: "Music for your journey"
 categories:
   - Lifestyle
-description:
+image: '/images/posts/desert-plant.jpg'
 ---
 
 A truly transformative mix, best listened to when wandering through the desert, or wandering through your own mind. One thing blends seamlessly into the other, as if the music were already out there in the multi-verse awaiting discovery. It leads you to question time itself, because you're only existing in the present moment, with memories and thoughts fleeting the moment they begin.

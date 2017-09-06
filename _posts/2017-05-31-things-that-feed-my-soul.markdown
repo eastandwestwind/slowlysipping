@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Things That Feed My Soul"
+title: "Things that feed my soul"
 categories:
   - Lifestyle
-image: '/images/posts/sipping.jpg'
+image: '/images/posts/soul.jpg'
 ---
 
 This is more of a stream of consciousness than anything else, but I believe it is vastly important to know what drives you, what motivates you, what makes you feel comfortable, and even what stresses you. Knowing yourself is the first step to better decision-making on a day-to-day basis.

@@ -2,7 +2,7 @@
 layout: post
 title: "Names"
 categories:
-  - Ideas
+  - Lifestyle
 image: '/images/posts/baby-kittens.jpg'
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "5 Steps to Backpack Minimal"
 categories:
-  - Clothing
+  - Lifestyle
 image: '/images/posts/backpack-minimal.jpg'
 ---
 
