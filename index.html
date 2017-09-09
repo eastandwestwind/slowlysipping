@@ -12,9 +12,10 @@ layout: default
       </h2>
       <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
     </header>
-    <div class="post-content" itemprop="articleBody">
+    <div class="post-content latest-posts-content" itemprop="articleBody">
       {{ post.content }}
     </div>
+    <hr />
     {% endfor %}
     <header class="text-center more__posts">More Posts</header>
     <div class="post-list">
