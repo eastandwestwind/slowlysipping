@@ -6,6 +6,13 @@ categories:
 image: '/images/posts/challenges-dev.jpg'
 ---
 
+Let's be honest. It's tough learning to code.
+
+Especially learning to code on your own.
+
+Along with all the usual suspects, there's a whole other slew of things to deal with when going at it alone.
+
+The goal of this post is to help you prepare for these things, and maybe even make it a little easier for you to get on your feet and start coding!
 
 I'd say challenges fall into 3 categories- challenges while learning, challenges applying to jobs, and challenges after getting a job.
 
@@ -40,7 +47,7 @@ I'd say challenges fall into 3 categories- challenges while learning, challenges
   The "getting started with the web" module is a great place to start for like a complete beginner. And of course you can browse by more specific topic.
 
 # 2
-**Applying to jobs is can be disheartening.**
+**Applying to jobs can be disheartening.**
 
  I got so many rejections and non-responses. But I used the time to keep learning and keep building my portfolio.
 
