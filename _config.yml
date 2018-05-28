@@ -7,12 +7,13 @@
 
 # Site settings
 title:            Slowly Sipping
-email:
-description:      recipes, thoughts, code
+email:            hello@slowlysipping.com
+description:      Travel stories and inspiration from a down-to-earth girl in tech
 baseurl:          '' # The subpath of your site, e.g. /blog
 url:              'https://slowlysipping.com' # The base hostname & protocol for your site
 github_username:
 twitter_username:
+instagram: slowlysipping
 
 markdown:  kramdown
 permalink: pretty
@@ -43,6 +44,22 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+
+# SEO settings
+title: Slowly Sipping
+description: Travel stories and inspiration from a down-to-earth girl in tech
+url: "https://slowlysipping.com"
+twitter_username:
+default_img:
+
+# Profile settings
+name: slowlysipping
+profile_img:
+profile:
+social:
+  github:
+  instagram: instagram
+
 
 # Authors
 authors:
