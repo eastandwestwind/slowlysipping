@@ -17,7 +17,7 @@ So here's what I ended up bringing (and yes, I definitely made mistakes my first
 
 In my Backpack (from top to bottom, left to right) - [Tom Bihn Aeronaut 30](https://www.tombihn.com/products/aeronaut-30):
 
-<img style="float: right; width: 500px; margin-right: 50px; " src="/images/posts/synapse.jpg" />
+<img style="width: 500px; margin-right: 50px; " src="/images/posts/synapse.jpg" />
 
 * Baseball cap - Patagonia
 * Laptop + case
@@ -42,7 +42,7 @@ In my Backpack (from top to bottom, left to right) - [Tom Bihn Aeronaut 30](http
 
 In my carry-on - [Tom Bihn Synapse 19](https://www.tombihn.com/products/synapse-19)
 
-<img style="float: right; width: 500px; margin-right: 50px;" src="/images/posts/aeronaut.jpg" />
+<img style="width: 500px; margin-right: 50px;" src="/images/posts/aeronaut.jpg" />
 
 * Linen travel towel - from [Goodlinens](https://www.goodlinens.com/collections/all/products/lightweight-travel-towel-blue)- doubles as a beach blanket / picnic blanket
 * Film camera - my splurge item because it's so bulky and heavy! And sadly I've barely used it

@@ -10,12 +10,12 @@ layout: default
   <div class="row">
 
     {% if page.image %}
-      <div class="column column--center medium-10 large-10">
+      <div class="column column--center medium-12 large-12">
         <div class="grey-bg CoverImage FlexEmbed FlexEmbed--16by9" style="background-image: url({{ page.image | prepend: site.baseurl }})"></div>
       </div>
     {% endif %}
 
-    <div class="column column--center medium-10 large-10">
+    <div class="column column--center medium-12 large-12">
       <article class="post {% unless page.image %} post--no-image {% endunless %}" itemscope itemtype="http://schema.org/BlogPosting">
 
         {% if page.image %}

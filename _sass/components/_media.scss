@@ -24,6 +24,12 @@ img {
     }
   }
   p img { margin-bottom: 0; }
+  img {
+    float: right;
+    @media #{$medium-down} {
+      float: none;
+    }
+  }
 }
 
 .CoverImage {
