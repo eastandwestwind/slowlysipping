@@ -4,4 +4,4 @@ title: About
 image: '/images/pages/banner.jpg'
 ---
 
-Read all about the things!
+Travel stories and inspiration from a down-to-earth girl in tech.

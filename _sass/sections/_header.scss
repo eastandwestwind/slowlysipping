@@ -5,9 +5,6 @@
 .logo {
   display: block;
   margin-bottom: 0;
-  line-height: $line-height__base;
-
-  @media #{$medium-down} { line-height: $line-height__medium; }
 
   a {
     transition: $base-transition-speed;
@@ -15,6 +12,9 @@
     letter-spacing: 1px;
 
     &:hover { color: $color__type--hover; }
+    img {
+      display: inline-block;
+    }
   }
 
   &__img {
@@ -25,9 +25,10 @@
 
 .site-header {
   position: relative;
-  padding: half($line-height__medium) 0;
+  padding: 10px 0;
   border-bottom: 1px solid $border-color;
-  line-height: $line-height__medium;
+  line-height: 0;
+  font-size: 0;
   background-color: #fff;
 
   @media #{$large-up} {
@@ -35,6 +36,4 @@
     z-index: 100;
     width: 100%;
   }
-
-  @media #{$large-up} { padding: half($line-height__base) 0; }
 }
